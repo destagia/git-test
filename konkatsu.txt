@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello, konkatsu
 hello,
+=======
+1.hello,konkatsu world!
+2.goodbye,konkatsu world!
+>>>>>>> 88b13d685bfbe67b9aee6d990b05059ce7f2f016
